@@ -14,7 +14,7 @@ Best User Bot To Manage Your Telegram Account
 
 ### For any query or want to know how it works join Group And Channel 
 
-<a href="https://t.me/sensible_userbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Tibetan_woLf"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 ## HOW TO DEPLOY 
 
@@ -28,11 +28,11 @@ I Like To Thank Them Always Mr White && Infotel (Infotell Is Latest) Who Made vi
 
 ### The Easy Way
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/spandey112/SensibleUserbot/)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xoxo786/sasi)
 
-Take Sting session from Replit
 
-[![Run on Repl.it](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://stringsession.sensibleuserbot.repl.run/)
+
+
 
 -------------------------------------------------
 
@@ -40,9 +40,9 @@ Take Sting session from Replit
 
 So I have Updated This Things For Api Id Just GO To This Bot Click There t.me/ceoappid_bot
 
-1. Take APP ID AND HASH FROM Click There t.me/ceoappid_bot
+1. Take APP ID AND HASH FROM Click There https: telegram.org
 
-2. For String Session [ðŸ‘‰Click here ðŸ‘ˆ](https://sensibleuserbotstringsession.spandey112.repl.run/)
+2. For String Session [ðŸ‘‰Click here ðŸ‘ˆ]()
 
 2.1 Wait For 2 Mins Until It Asks API ID 
 
@@ -56,7 +56,7 @@ So I have Updated This Things For Api Id Just GO To This Bot Click There t.me/ce
 
 3. Now Copy String Session
 
-4 Open this link https://github.com/spandey112/SensibleUserbot
+4 Open this link https://github.com/xoxo786/sasi
 
 5. Click On Deploy app
 
